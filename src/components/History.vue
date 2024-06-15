@@ -7,7 +7,7 @@
         ></div>
         <div class="mb-4">
           <time
-            class="mb-1 text-3xl sm:text-5xl font-normal leading-none text-gray-400 dark:text-gray-500"
+            class="mb-1 text-3xl sm:text-5xl font-normal leading-none text-blue-400"
             >TRISTEZA</time
           >
         </div>
@@ -17,7 +17,7 @@
             src="../img/tristeza.jpeg"
             alt="Image Description"
           />
-          <p class="text-base font-normal text-gray-500 dark:text-gray-400 text-justify">
+          <p class="text-base font-normal text-black text-justify">
             Cuando percibo tu tristeza, lo primero que deseo es abrazarte y
             recordarte que estoy aquí para ti, siempre. Quiero que sepas que
             puedes contar conmigo en todo momento. Tu felicidad y bienestar son
@@ -33,7 +33,7 @@
         ></div>
         <div class="mb-4">
           <time
-            class="mb-1 text-3xl sm:text-5xl font-normal leading-none text-gray-400 dark:text-gray-500"
+            class="mb-1 text-3xl sm:text-5xl font-normal leading-none text-purple-400"
             >VERGÜENZA</time
           >
         </div>
@@ -43,7 +43,7 @@
             src="../img/verguenza.jpeg"
             alt="Image Description"
           />
-          <p class="text-base font-normal text-gray-500 dark:text-gray-400 text-justify">
+          <p class="text-base font-normal text-black text-justify">
             Cada vez que te encuentres en un momento de vergüenza, quiero que
             recuerdes que mi amor por ti no se ve afectado por nada de eso. Para
             mí, eres perfecta en todos los sentidos, incluso en tus momentos más
@@ -61,7 +61,7 @@
         ></div>
         <div class="mb-4">
           <time
-            class="mb-1 text-3xl sm:text-5xl font-normal leading-none text-gray-400 dark:text-gray-500"
+            class="mb-1 text-3xl sm:text-5xl font-normal leading-none "
             >TEMOR</time
           >
         </div>
@@ -71,7 +71,7 @@
             src="../img/temor.jpeg"
             alt="Image Description"
           />
-          <p class="text-base font-normal text-gray-500 dark:text-gray-400 text-justify">
+          <p class="text-base font-normal text-black text-justify">
             Cada vez que sientas miedo, quiero que sepas que estaré aquí a tu
             lado, dispuesta a apoyarte en todo momento. No solo estaré presente
             para consolarte, sino también para protegerte. Quiero que confíes en
@@ -89,7 +89,7 @@
         ></div>
         <div class="mb-4">
           <time
-            class="mb-1 text-3xl sm:text-5xl font-normal leading-none text-gray-400 dark:text-gray-500"
+            class="mb-1 text-3xl sm:text-5xl font-normal leading-none text-red-400"
             >FURIA</time
           >
         </div>
@@ -99,7 +99,7 @@
             src="../img/fueria.jpeg"
             alt="Image Description"
           />
-          <p class="text-base font-normal text-gray-500 dark:text-gray-400 text-justify">
+          <p class="text-base font-normal text-black text-justify">
             Cuando sientas furia, quiero que sepas que estaré aquí para
             escucharte y apoyarte sin juzgarte. Mi amor por ti es incondicional,
             y te amo tal como eres, incluso cuando tus arrebatos me hagan
@@ -117,7 +117,7 @@
         ></div>
         <div class="mb-4">
           <time
-            class="mb-1 text-3xl sm:text-5xl font-normal leading-none text-gray-400 dark:text-gray-500"
+            class="mb-1 text-3xl sm:text-5xl font-normal leading-none text-orange-400"
             >ANSIEDAD</time
           >
         </div>
@@ -127,7 +127,7 @@
             src="../img/ansiedad.jpeg"
             alt="Image Description"
           />
-          <p class="text-base font-normal text-gray-500 dark:text-gray-400 text-justify">
+          <p class="text-base font-normal text-black text-justify">
             Cuando sientas ansiedad, quiero que recuerdes que estoy aquí a tu
             lado. Eres mi prioridad absoluta, y quiero que sepas que no estás
             sola en esto. No necesitas comer mucho para calmar esa ansiedad. Lo
@@ -146,7 +146,7 @@
         ></div>
         <div class="mb-4">
           <time
-            class="mb-1 text-3xl sm:text-5xl font-normal leading-none text-gray-400 dark:text-gray-500"
+            class="mb-1 text-3xl sm:text-5xl font-normal leading-none text-violet-400"
             >ABURRIMIENTO</time
           >
         </div>
@@ -156,7 +156,7 @@
             src="../img/aburrimiento.jpeg"
             alt="Image Description"
           />
-          <p class="text-base font-normal text-gray-500 dark:text-gray-400 text-justify">
+          <p class="text-base font-normal text-black text-justify">
             Si alguna vez sientes aburrimiento, busquemos algo divertido que
             podamos hacer juntos. Siempre quiero verte sonreír, incluso cuando
             te hago bromas pesadas. Ver tu sonrisa es mi mayor alegría y me hace
@@ -173,7 +173,7 @@
         ></div>
         <div class="mb-4">
           <time
-            class="mb-1 text-3xl sm:text-5xl font-normal leading-none text-gray-400 dark:text-gray-500"
+            class="mb-1 text-3xl sm:text-5xl font-normal leading-none text-yellow-400"
             >ALEGRÍA</time
           >
         </div>
@@ -183,7 +183,7 @@
             src="../img/alegria.jpeg"
             alt="Image Description"
           />
-          <p class="text-base font-normal text-gray-500 dark:text-gray-400 text-justify">
+          <p class="text-base font-normal text-black text-justify">
             Verte feliz ilumina mi día. Tu alegría es contagiosa y me recuerda
             lo afortunado que soy de tenerte en mi vida. Cada sonrisa tuya es un
             regalo que valoro profundamente. Estoy aquí para apoyarte y celebrar
@@ -200,7 +200,7 @@
         ></div>
         <div class="mb-4">
           <time
-            class="mb-1 text-3xl sm:text-5xl font-normal leading-none text-gray-400 dark:text-gray-500"
+            class="mb-1 text-3xl sm:text-5xl font-normal leading-none text-green-400"
             >DESAGRADO</time
           >
         </div>
@@ -210,7 +210,7 @@
             src="../img/Desagrado.jpeg"
             alt="Image Description"
           />
-          <p class="text-base font-normal text-gray-500 dark:text-gray-400 text-justify">
+          <p class="text-base font-normal text-black text-justify">
             Sé que a veces puedes sentir desagrado por ciertas cosas, pero
             quiero que sepas que siempre tendrás mi amor y apoyo incondicional.
             Estoy aquí para escucharte, comprenderte y estar a tu lado en cada
@@ -227,7 +227,7 @@
         ></div>
         <div class="mb-4">
           <time
-            class="mb-1 text-3xl sm:text-5xl font-normal leading-none text-gray-400 dark:text-gray-500"
+            class="mb-1 text-3xl sm:text-5xl font-normal leading-none text-green-300"
             >ENVIDIA</time
           >
         </div>
@@ -237,7 +237,7 @@
             src="../img/envidia.jpeg"
             alt="Image Description"
           />
-          <p class="text-base font-normal text-gray-500 dark:text-gray-400 text-justify">
+          <p class="text-base font-normal text-black text-justify">
             Nunca sientas envidia. Recuerda que para mí eres única y especial.
             No hay nada ni nadie que pueda cambiar lo que siento hacia ti. Eres
             alguien increíble y valoro cada parte de ti. Estoy aquí para
